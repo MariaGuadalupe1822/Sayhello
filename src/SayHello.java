@@ -1,6 +1,6 @@
 public class SayHello {
     public static void main(String[] args) {
         String name="Maria Guadalupe Villasana Salgado";
-        System.out.println("Hola mundo " + name);
+        System.out.println("Hello " + name);
     }
 }
